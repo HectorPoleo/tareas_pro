@@ -1,0 +1,10 @@
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/module-info.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/abstractas/AbstractController.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/controller/HelloController.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/controller/LoginController.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/modelo/UsuarioEntity.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/modelo/UsuarioServiceModel.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/PrincipalApplication.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/controller/RegistroController.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/modelo/Conexion.java
+/media/dam/easystore/primera-app-fx/primera-app-fx/src/main/java/es/ies/puerto/config/ConfigManager.java
